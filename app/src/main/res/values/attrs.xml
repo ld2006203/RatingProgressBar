@@ -1,0 +1,7 @@
+<resources>
+    <declare-styleable name="rpb">
+        <attr name="radius" format="dimension" />
+        <attr name="checkItem" format="reference" />
+        <attr name="unCheckItem" format="reference" />
+    </declare-styleable>
+</resources>
